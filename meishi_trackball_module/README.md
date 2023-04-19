@@ -1,5 +1,7 @@
 # meishi trackball module用ケース
 
+![image](https://github.com/9610r/3D-Data-ScrapBox/blob/main/meishi_trackball_module/IMG_9562.jpeg)
+
 https://github.com/aki27kbd/trackball_module
 
 aki27kbd様のmeishi trackball module専用ケースです。
